@@ -1,0 +1,14 @@
+framework: net462
+redirects: on
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Compiler.Tools
+nuget FSharp.Core
+nuget System.ValueTuple
+nuget Akka
+nuget Akka.Cluster
+nuget Akka.Cluster.Discovery.Consul
+nuget Akka.Logger.NLog
+nuget Akka.Serialization.Hyperion prerelease
+nuget Akkling
+nuget Akkling.Streams

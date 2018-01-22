@@ -1,0 +1,6 @@
+FSharp.Core
+FSharp.Compiler.Tools
+System.ValueTuple
+Akka.Cluster.Discovery.Consul
+Akkling
+Hyperion
